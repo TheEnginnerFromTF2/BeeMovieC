@@ -1,0 +1,5 @@
+dist/
+resources.o
+-p/
+.vscode/
+*.o
